@@ -1,0 +1,27 @@
+{
+    "name":        "tomkyle/atomic",
+    "type":        "library",
+    "description": "Part of a crappy framework, providing formerly useful classes",
+
+
+    "authors": [
+        {
+            "name": "Carsten Witt",
+            "email": "carsten.witt@gmail.com",
+            "role": "Developer"
+        }
+    ],
+
+    "minimum-stability": "dev",
+
+    "autoload": {
+        "psr-4": {
+            "tomkyle\\Atomic\\": "src/"
+        }
+    },
+
+    "require": {
+        "php": ">=5.4.9",
+        "tomkyle/exceptions": "dev-master"
+    }
+}
