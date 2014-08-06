@@ -22,6 +22,6 @@
 
     "require": {
         "php": ">=5.4.9",
-        "tomkyle/exceptions": "dev-master"
+        "tomkyle/exceptions": "~1.0"
     }
 }
